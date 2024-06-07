@@ -23,9 +23,7 @@ public class Main {
         System.out.println("Contains 12: " + BST.contains(12));
         System.out.println("Contains 15: " + BST.contains(15));
         System.out.println("Contains 1: " + BST.contains(1));
-        System.out.println("Contains 85: " + BST.contains(85));
         System.out.println("Contains 5: " + BST.contains(5));
-        System.out.println("Contains 69: " + BST.contains(69));
         System.out.println();
 
         System.out.println("Minimum value: " + BST.min());
